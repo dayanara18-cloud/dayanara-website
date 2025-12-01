@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<title>Dayanara Palestina - Business Analytics Portfolio</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Dayanara Palestina</h1>
+    <img src="dayanara.png" alt="Professional portrait of Dayanara Palestina" class="portrait">
+</header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+    My name is Dayanara Palestina. I am a Business Analytics student at CSUN and a <strong>first-generation college student</strong>. I actively seek to learn data tools, including <strong>Excel, SQL, and Python</strong>. My goal is to leverage data insights to drive better decision-making for businesses.
+    </p>
+</section>
+
+<section id="education">
+    <h2>Education</h2>
+    <ul>
+        <li><strong>B.S. in Business Analytics</strong>, California State University Northridge (expected 2027)</li>
+        <li><strong>A.A. in Business Administration</strong>, College of the Canyons (2025)</li>
+    </ul>
+</section>
+
+<section id="experience">
+    <h2>Work Experience</h2>
+    <ul>
+        <li>
+        <strong>In-N-Out Associate</strong>
+        <ul>
+            <li>Provided excellent customer service and efficiently prepared orders in a fast-paced environment.</li>
+            <li>Accurately handled cash register tasks and maintained cash drawer accountability.</li>
+        </ul>
+        </li>
+    </ul>
+</section>
+
+<section id="interests">
+    <h2>Career Interests</h2>
+    <p>
+    I am interested in **data analytics**, **business intelligence**, and **operations**. I am passionate about working with data to solve complex business problems and improve customer experiences.
+    </p>
+</section>
+
+<section id="courses">
+    <h2>Courses This Semester</h2>
+
+    <table>
+    <thead>
+    <tr>
+    <th>Course Name</th>
+    <th>Section #</th>
+    <th>Credits</th>
+    <th>Days</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td>**BANA 310** – Data Visual Bus</td>
+    <td>21221</td>
+    <td>3</td>
+    <td>Tu & Th</td>
+    </tr>
+    <tr>
+    <td>**BUS 312** – Data Literacy Bus</td>
+    <td>20909</td>
+    <td>3</td>
+    <td>Mo & We</td>
+    </tr>
+    <tr>
+    <td>**IS 312** – Sys & Tech for Mgrs</td>
+    <td>13495</td>
+    <td>3</td>
+    <td>Mo & We</td>
+    </tr>
+    <tr>
+    <td>MGT 360 – Manag & Org Behav</td>
+    <td>13631</td>
+    <td>3</td>
+    <td>Th</td>
+    </tr>
+    <tr>
+    <td>**PHIL 305** – Ethics & Policy</td>
+    <td>14063</td>
+    <td>3</td>
+    <td>Fr + online</td>
+    </tr>
+    </tbody> 
+    </table>
+</section>
+
+<section id="contact">
+    <h2>Contact & Links</h2>
+    <
+        Email: <a href="mailto:your.email@example.com">your.email@example.com</a> | 
+        <a href="[Your LinkedIn URL]" target="_blank">LinkedIn</a> | 
+        <a href="[Your GitHub URL]" target="_blank">GitHub</a>
+    </p>
+</section>
+
+<footer>
+    <p>&copy; 2025 Dayanara Palestina. All rights reserved.</p>
+</footer>
+
+</body>
+</html>      
